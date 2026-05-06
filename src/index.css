@@ -1,0 +1,95 @@
+@import "tailwindcss";
+
+@theme {
+  --color-primary: #003b5a;
+  --color-primary-container: #1a5276;
+  --color-on-primary: #ffffff;
+  --color-on-primary-container: #94c5ee;
+
+  --color-secondary: #3c627d;
+  --color-secondary-container: #b8dffe;
+  --color-on-secondary: #ffffff;
+  --color-on-secondary-container: #3d637e;
+
+  --color-tertiary: #4d3100;
+  --color-tertiary-container: #6b4604;
+  --color-on-tertiary: #ffffff;
+  --color-on-tertiary-container: #eab66d;
+
+  --color-error: #ba1a1a;
+  --color-error-container: #ffdad6;
+  --color-on-error: #ffffff;
+  --color-on-error-container: #93000a;
+
+  --color-background: #f7faf9;
+  --color-on-background: #181c1c;
+
+  --color-surface: #f7faf9;
+  --color-on-surface: #181c1c;
+  --color-surface-variant: #e0e3e2;
+  --color-on-surface-variant: #41474e;
+  --color-outline: #72787f;
+  --color-outline-variant: #c1c7cf;
+
+  --color-surface-container-lowest: #ffffff;
+  --color-surface-container-low: #f1f4f3;
+  --color-surface-container: #ebeeed;
+  --color-surface-container-high: #e6e9e8;
+  --color-surface-container-highest: #e0e3e2;
+  --color-surface-bright: #f7faf9;
+  --color-surface-dim: #d7dbda;
+  --color-surface-tint: #2f6388;
+
+  --color-primary-fixed: #cbe6ff;
+  --color-primary-fixed-dim: #9bccf6;
+  --color-on-primary-fixed: #001e30;
+  --color-on-primary-fixed-variant: #0e4b6e;
+
+  --color-secondary-fixed: #c9e6ff;
+  --color-secondary-fixed-dim: #a5cbea;
+  --color-on-secondary-fixed: #001e2f;
+  --color-on-secondary-fixed-variant: #224b64;
+
+  --color-tertiary-fixed: #ffddb3;
+  --color-tertiary-fixed-dim: #f2bd74;
+  --color-on-tertiary-fixed: #291800;
+  --color-on-tertiary-fixed-variant: #633f00;
+
+  --color-inverse-surface: #2d3131;
+  --color-inverse-on-surface: #eef1f0;
+  --color-inverse-primary: #9bccf6;
+
+  --spacing-stack-sm: 8px;
+  --spacing-stack-md: 16px;
+  --spacing-stack-lg: 32px;
+  --spacing-unit: 4px;
+  --spacing-gutter: 16px;
+  --spacing-margin-page: 24px;
+
+  --font-label-caps: "Inter", sans-serif;
+  --font-body-main: "Inter", sans-serif;
+  --font-h1-title: "Inter", sans-serif;
+  --font-display-lg: "Inter", sans-serif;
+  --font-code-sm: "Monaco", "Menlo", "Consolas", monospace;
+  
+  --text-label-caps: 12px;
+  --text-label-caps--line-height: 16px;
+  --text-label-caps--letter-spacing: 0.05em;
+  --text-label-caps--font-weight: 500;
+
+  --text-body-main: 14px;
+  --text-body-main--line-height: 22px;
+  --text-body-main--font-weight: 400;
+
+  --text-h1-title: 24px;
+  --text-h1-title--line-height: 32px;
+  --text-h1-title--font-weight: 600;
+
+  --text-display-lg: 30px;
+  --text-display-lg--line-height: 38px;
+  --text-display-lg--font-weight: 600;
+
+  --text-code-sm: 13px;
+  --text-code-sm--line-height: 20px;
+  --text-code-sm--font-weight: 400;
+}
