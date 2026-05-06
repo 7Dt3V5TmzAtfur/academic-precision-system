@@ -1,5 +1,15 @@
 学术精度系统是一个基于Web的专业化学术文档处理平台，专为研究人员和学术工作者设计，用于自动化处理复杂的文档格式转换、参考文献管理和期刊模板适配任务。
 
+> 上传latex.zip 转换成word格式，AI优化自动解析期刊word模板，一键优化pandoc输出word文件。
+
+
+<img width="4561" height="1980" alt="1" src="https://github.com/user-attachments/assets/c257336e-f5a0-46ce-a710-9a24172f7907" />
+
+
+<img width="4639" height="1934" alt="2" src="https://github.com/user-attachments/assets/1830bb7c-456c-44eb-a8d2-e00689d3787d" />
+
+
+
 ## 系统定位与核心价值
 
 本系统解决学术研究者在投稿过程中面临的三大核心痛点：
